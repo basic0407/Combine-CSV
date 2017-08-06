@@ -1,0 +1,23 @@
+{
+  "name": "integrate-csv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babyparse": "^0.4.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/basic0407/Combine-CSV.git"
+  },
+  "bugs": {
+    "url": "https://github.com/basic0407/Combine-CSV/issues"
+  },
+  "homepage": "https://github.com/basic0407/Combine-CSV#readme",
+  "description": ""
+}
